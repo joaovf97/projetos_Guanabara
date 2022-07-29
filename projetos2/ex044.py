@@ -43,4 +43,4 @@ elif pagamento == 4:
             'O Valor do Produto Ficará R$ {:.2f} à Vista no Cartão.'
             .format(creditoAvista))
 else:
-    print('OPÇÃO INVÁLIDA DE PAGAMENTO. POR FAVOR, TENTE NOVAMENTE!!!')
+    print('OPÇÃO INVÁLIDA DE PAGAMENTO.')
